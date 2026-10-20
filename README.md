@@ -30,21 +30,19 @@ It can be used to understand basic networking concepts, socket programming, and 
 ## Usage
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/TheToex/ReverseShell.git
 cd ReverseShell
-
+```
 2. Start the server.py in your server:
-
+```bash
 python3 server.py
-
+```
 3. Edit the reverseshell.py and set your server IP
 
 4. run or bind reverseshell.py with other application(may need antivirus evasion)
 
 5. Use the server console to send commands to the client.
-
-
 
 ---
 
